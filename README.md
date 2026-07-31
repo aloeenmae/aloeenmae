@@ -1,4 +1,4 @@
-## Hi there 👋
+## Holla ;)
 
 Estonia-based tinkerer who bounces between a terminal and a camera.
 I like understanding how things actually work and pulling a system apart to see what makes it tick.
